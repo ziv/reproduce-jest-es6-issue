@@ -1,0 +1,1 @@
+# reproduce-jest-es6-issue
